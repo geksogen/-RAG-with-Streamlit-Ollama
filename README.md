@@ -46,7 +46,7 @@ docker-compose up -d
 ```BASH
 cd application/
 pip3 install -r requirements.txt
-streamlit run main.py
+streamlit run ollama_vision.py
 ```
 
 ## Clear
